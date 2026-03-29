@@ -1,0 +1,66 @@
+{
+  "commitHash": "abc123def456...",
+  "generatedAt": "2026-03-29T10:30:00Z",
+  "docs": [
+    {
+      "file": "agents.mdx",
+      "path": "/tmp/opencode-repo/packages/web/src/content/docs/agents.mdx",
+      "title": "Agents",
+      "description": "Configure and use specialized agents."
+    },
+    {
+      "file": "cli.mdx",
+      "path": "/tmp/opencode-repo/packages/web/src/content/docs/cli.mdx",
+      "title": "CLI",
+      "description": "Command line interface reference."
+    },
+    {
+      "file": "commands.mdx",
+      "path": "/tmp/opencode-repo/packages/web/src/content/docs/commands.mdx",
+      "title": "Commands",
+      "description": "Slash commands and keyboard shortcuts."
+    },
+    {
+      "file": "config.mdx",
+      "path": "/tmp/opencode-repo/packages/web/src/content/docs/config.mdx",
+      "title": "Config",
+      "description": "Configuration options and settings."
+    },
+    {
+      "file": "custom-tools.mdx",
+      "path": "/tmp/opencode-repo/packages/web/src/content/docs/custom-tools.mdx",
+      "title": "Custom Tools",
+      "description": "Create custom tools for OpenCode."
+    },
+    {
+      "file": "skills.mdx",
+      "path": "/tmp/opencode-repo/packages/web/src/content/docs/skills.mdx",
+      "title": "Agent Skills",
+      "description": "Define reusable behavior via SKILL.md definitions."
+    },
+    {
+      "file": "tools.mdx",
+      "path": "/tmp/opencode-repo/packages/web/src/content/docs/tools.mdx",
+      "title": "Tools",
+      "description": "Manage the tools an LLM can use."
+    },
+    {
+      "file": "permissions.mdx",
+      "path": "/tmp/opencode-repo/packages/web/src/content/docs/permissions.mdx",
+      "title": "Permissions",
+      "description": "Control what actions agents can take."
+    },
+    {
+      "file": "providers.mdx",
+      "path": "/tmp/opencode-repo/packages/web/src/content/docs/providers.mdx",
+      "title": "Providers",
+      "description": "Configure LLM providers."
+    },
+    {
+      "file": "rules.mdx",
+      "path": "/tmp/opencode-repo/packages/web/src/content/docs/rules.mdx",
+      "title": "Rules",
+      "description": "Project-specific agent instructions via AGENTS.md."
+    }
+  ]
+}
