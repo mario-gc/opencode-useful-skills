@@ -1,31 +1,3 @@
-# Global Agent Catalog
-
-## Primary Agent
-
-| Agent | Purpose |
-|-------|---------|
-| @architect | Project orchestrator - delivers complete projects |
-
-## Subagents
-
-| Agent | Purpose |
-|-------|---------|
-| @detective | Research investigation |
-| @backend-dev | Backend implementation |
-| @frontend-dev | Frontend implementation |
-| @devops-eng | Infrastructure |
-| @security-eng | Security review |
-| @qa-eng | Quality review |
-| @tester | Test execution |
-| @writer | Documentation |
-| @blogger | Content creation |
-
-## Usage
-
-Start with @architect for projects. They coordinate everything.
-
-For research: `@detective Research [topic]`
-
 # Git Flow Protocol
 
 ## Branch Structure

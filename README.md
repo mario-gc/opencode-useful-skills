@@ -7,6 +7,7 @@ Collection of useful skills for OpenCode AI agent.
 | Skill | Description | Location |
 |-------|-------------|----------|
 | opencode-info | Official OpenCode docs from local repo (no URL fetching) | `opencode-info-skill/` |
+| gha-act-workflows | Validate and run GitHub Actions workflows locally with act CLI | `gha-act-workflows-skill/` |
 
 ## Deployment
 
