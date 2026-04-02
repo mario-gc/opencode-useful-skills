@@ -10,6 +10,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.1.0] - 2026-04-02
 
 ### Added
+- GitHub issue and PR templates
+  - Bug report template
+  - Feature request template
+  - Pull request template
 - `gha-act-workflows` skill for validating and running GitHub Actions workflows locally
   - Two-phase validation: syntax check (`--validate`) then execution
   - Detection commands for modified/new/renamed workflow files
