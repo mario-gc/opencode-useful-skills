@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-04-02
+
 ### Added
 - `gha-act-workflows` skill for validating and running GitHub Actions workflows locally
   - Two-phase validation: syntax check (`--validate`) then execution
@@ -15,6 +17,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Docker requirement documentation (validation-only needs no Docker)
   - Cleanup instructions for act containers
   - Unsupported features reference (concurrency, step summaries, etc.)
+- GitHub issue and PR templates
+  - Bug report template with environment info section
+  - Feature request template with motivation and alternatives
+  - Pull request template with documentation checklist
 
 ## [1.0.0] - 2026-03-31
 
@@ -29,7 +35,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `scripts/deploy-all.sh` - Deploy all skills to `~/.config/opencode/skills/`
 - `LICENSE` - MIT license
 - `.gitignore` - Editor, OS, and temp file exclusions
-- `.github/` folder with PR and issue templates
 
 ### Security
 - Explicit documentation forbidding access to user config files containing API keys
